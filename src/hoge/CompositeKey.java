@@ -52,5 +52,4 @@ public class CompositeKey {
 			return false;
 		return true;
 	}
-
 }
